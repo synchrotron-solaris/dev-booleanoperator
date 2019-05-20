@@ -18,8 +18,8 @@ class BooleanOperator(Facade):
     """
     def safe_init_device(self):
         """
-        Device initialization - facadedevice specific. If it's empty,
-        normally it's not defined, but for sake of example it's here.
+        Device initialization - facadedevice specific. Normally, if it's empty,
+        it's not defined, but for sake of example it's here.
 
         :return: None
         """

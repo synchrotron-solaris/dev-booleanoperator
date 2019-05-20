@@ -42,7 +42,7 @@ Otherwise, install it directly from GitLab:
 Execution
 =========
 
-After installation, application can be launched by typing
+After installation, server can be launched by typing
 
 .. code-block:: bash
 
@@ -52,4 +52,4 @@ After installation, application can be launched by typing
 Documentation
 =============
 
-Full documentation can be found `here <www.solaris-example-docs-page.uj.edu.pl>`_.
+Full documentation can be found `here <https://solaris-example-docs-page.uj.edu.pl>`_.

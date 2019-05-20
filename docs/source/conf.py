@@ -45,7 +45,7 @@ extensions = [
     'sphinx.ext.viewcode',
 ]
 
-#Order of automatically documented members
+# Order of automatically documented members
 autodoc_member_order = 'bysource'
 
 # Add any paths that contain templates here, relative to this directory.

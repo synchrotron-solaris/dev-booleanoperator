@@ -27,7 +27,7 @@ setup(
         "Bug Reports":
             "https://github.com/synchrotron-solaris/dev-booleanoperator/issues",
         "Documentation":
-            "https://example.com/",
+            "https://solaris-example-docs-page.uj.edu.pl",
         "Source":
             "https://github.com/synchrotron-solaris/dev-booleanoperator.git",
     }
